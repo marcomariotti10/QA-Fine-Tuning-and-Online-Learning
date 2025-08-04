@@ -1,4 +1,4 @@
-# 🧠 Natural Language Processing Project 2024: Question Answering on BeerQA
+# 🧠 Natural Language Processing on BeerQA
 
 ## 📋 Project Overview
 
